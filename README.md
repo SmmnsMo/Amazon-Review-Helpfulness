@@ -13,3 +13,12 @@ The Data Story takes the data that's been cleaned and translates them into insig
 
 ## Statistical Inference
 In the statistical Inference I explore the differences between helpful and unhelpful reviews and summaries. I've created visualizations of the counts by buckets and tested whether the two groups are significantly different from one another. 
+
+## Machine Learning
+I used machine learning models to predict the Helpfulness of Amazon Reviews. This goes through the implementation steps, models used and the model evaluation.
+
+## Slide Deck
+Summarized report in a presentation format
+
+## Amazon Reviews Helpfulness
+This is a detailed written report about. Includes every step and a conclusion regarding final findings.
